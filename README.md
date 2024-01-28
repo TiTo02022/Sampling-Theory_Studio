@@ -87,7 +87,7 @@ Visual comparison of original and processed signals      </li>
 <ul>
   <li>Youssef Ahmed Afify</li>
   <li>Youssef Ahmed Mohamed</li>
-  <li>Tarek Walid</li>
+  <li>Tarek Waleed</li>
   <li>Mohamed Tamer</li>
 
 </ul>
